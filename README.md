@@ -30,7 +30,7 @@ Chub Hash Cracker is a Python script designed to crack hashes using various tech
 4. Run the script:
 
     ```
-    python chub_hash_cracker.py
+    python chub.py
     ```
 
 5. Follow the prompts to select the hash type and enter the hash you want to crack.
