@@ -1,3 +1,13 @@
+#!/usr/bin/python3
+# -*- coding: utf-8 -*-
+
+"""
+Chub Hash Cracker
+Author: Muchub (https://github.com/muchub/)
+Description: A Python script to crack MD5, SHA1 and Bcrypt hashes.
+Usage: python3 chub.py
+"""
+
 from colorama import Fore, Style
 import threading
 import time
