@@ -12,7 +12,7 @@ Chub Hash Cracker is a Python script designed to crack hashes using various tech
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/chub-hash-cracker.git
+    git clone https://github.com/muhcub/chub-hash-cracker.git
     ```
 
 2. Navigate to the project directory:
