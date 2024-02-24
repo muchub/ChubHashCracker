@@ -40,4 +40,4 @@ Chub Hash Cracker is a Python script designed to crack hashes using various tech
 7. Wait for the script to crack the hash. Once found, the original input will be displayed along with the time taken to crack it.
 
 ## Author
-This script was developed by Muchub.
+- **Muchub** - [GitHub](https://github.com/muchub)
